@@ -1,0 +1,41 @@
+Persyaratan
+Dapat Mengoperasikan Komputer
+Dapat Menginstall Aplikasi
+Deskripsi
+Belajar dan Tutorial Git untuk Pemula sampai Mahir
+
+Git merupakan salah satu distributed version control yang saat ini paling populer digunakan di kalangan programmer, dengan banyaknya dukungan dari web besar seperti Github, Bitbucket dan GitLab, membuat Git menjadi standard wajib untuk programmer ketika berkolaborasi membuat aplikasi.
+
+Pada course ini, kita akan belajar Git dari dasar sampai mahir. Materinya dibuat terstruktur dengan baik, berisi teori dan praktek yang bisa diikuti oleh programmer pemula. Harapannya peserta bisa menguasai Git dengan baik dan mahir. Materi Git ini berisikan semua teori Git sekaligus praktek dari teori nya, sehingga peserta bisa mengikuti materi ini secara bertahap.
+
+Materi course ini akan dimulai dari dasar-dasar, sampai ke materi yang advanced, seperti :
+
+Pengenalan Version Control
+
+Pengenalan Git
+
+Menginstall Git di Mac, Linux dan Windows
+
+Melakukan Konfigurasi Git
+
+Belajar Arsitektur Three Tree Git
+
+Membuat Repository
+
+Manajemen File di Git
+
+Cara melakukan Commit
+
+Membatalkan Perubahan
+
+Melakukan Reset dan Revert ke Commit
+
+Melihat Riwayat Commit Sebelumnya
+
+Dan lain-lain
+
+Harapannya, setelah perserta mengikuti materi Git ini, bisa menggunakan Git untuk management project aplikasinya, dan tentu saja bisa berkolaborasi dengan team member lain di pekerjaannya.
+
+Materi akan selalu saya update jika ada fitur baru di Git, dan ketika ada materi tambahan baru, saya akan update harga dari course ini. Jadi jika teman-teman mengikuti kelas Git ini lebih awal, maka akan mendapatkan harga yang lebih murah, jadi jangan sampai menyesal tidak join lebih awal ke kelas ini
+
+Saya tunggu di kelas Git, salam programmer zaman now.
