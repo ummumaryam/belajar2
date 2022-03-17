@@ -1,0 +1,2 @@
+Auto switch based on OS color scheme#
+Windows and macOS support light and dark color schemes. There is a setting, window.autoDetectColorScheme, that instructs VS Code to listen to changes to the OS's color scheme and switch to a matching theme accordingly.
